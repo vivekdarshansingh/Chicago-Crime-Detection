@@ -7,8 +7,8 @@ Data Columns details:
 1. ID: a unique identifier for each observation.
 
 2. Date: the date the crime occurred. 
-  
-  3.LocationDescription: the location where the crime occurred.
+
+3. LocationDescription: the location where the crime occurred.
 
 4. Arrest: whether or not an arrest was made for the crime (TRUE if an arrest was made, and FALSE if an arrest was not made).
 
