@@ -21,5 +21,3 @@ Data Columns details:
 8. CommunityArea: the community area in which the crime occurred. Since the 1920s, Chicago has been divided into what are called "community areas", of which there are now 77. The community areas were devised in an attempt to create socially homogeneous regions.
 
 9. Year: the year in which the crime occurred.
-
-10. Latitude: the latitude of the location at which the crime occurred.
